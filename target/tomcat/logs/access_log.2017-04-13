@@ -1,0 +1,9 @@
+127.0.0.1 - - [13/Apr/2017:18:48:22 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 57 http-bio-8080-exec-1 47
+127.0.0.1 - - [13/Apr/2017:18:49:27 +0800] "GET /Restaurant/noodles?vagetable=dsads HTTP/1.1" 200 55 http-bio-8080-exec-4 2
+127.0.0.1 - - [13/Apr/2017:19:59:49 +0800] "GET /Restaurant/noodles?vagetable=dsads HTTP/1.1" 200 55 http-bio-8080-exec-1 55
+127.0.0.1 - - [13/Apr/2017:19:59:50 +0800] "GET /Restaurant/noodles?vagetable=dsads HTTP/1.1" 200 55 http-bio-8080-exec-3 1
+127.0.0.1 - - [13/Apr/2017:19:59:56 +0800] "GET /Restaurant/noodles?vagetable=dsads HTTP/1.1" 200 55 http-bio-8080-exec-4 0
+127.0.0.1 - - [13/Apr/2017:20:00:05 +0800] "GET /Restaurant/noodles?vagetable=chenpeijian HTTP/1.1" 200 61 http-bio-8080-exec-5 0
+127.0.0.1 - - [13/Apr/2017:20:05:22 +0800] "GET /Restaurant/noodles?vagetable=chenpeijiands HTTP/1.1" 200 63 http-bio-8080-exec-1 76
+127.0.0.1 - - [13/Apr/2017:20:10:41 +0800] "GET /Restaurant/noodles?vagetable=chenpeijiandtl HTTP/1.1" 200 64 http-bio-8080-exec-1 75
+127.0.0.1 - - [13/Apr/2017:20:15:42 +0800] "GET /Restaurant/noodles?vagetable=chenpeijiandtlds HTTP/1.1" 200 66 http-bio-8080-exec-1 124
