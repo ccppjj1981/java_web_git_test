@@ -4,3 +4,4 @@
 * master commit1
 * mater commit2
 * branch commit1
+* branch1 commit2
